@@ -7,5 +7,16 @@
   
 2b. Accessor methods are needed because the variables are private and shouldn't be changed freely.  
   
-2ci. ![Untitled Workspace](https://github.com/BrandonSalimTheHuman/OOPForumWeek9/assets/114371928/18ea82fd-b0ac-421d-8843-2fe43927bcff)
-
+2ci. ![image](https://github.com/BrandonSalimTheHuman/OOPForumWeek9/assets/114371928/aa13228f-44d7-4046-bda0-e6779712b0c7)  
+  
+2cii. The sales object has accessor methods, but no mutator methods. If something needs to be changed in the future, it can't be changed.  
+  
+2d. 
+102  
+2  
+2550.40  
+5000.00  
+  
+2h. The classes need to have an attribute to keeo track of the data. There should also be a method to calculate the salary by summing up all the sales in a month and then applying the appropriate calculations to get the salary.  
+  
+2i. Polymorphism can be seen when overloading is used in the SalesPerson class for the two constructors.
