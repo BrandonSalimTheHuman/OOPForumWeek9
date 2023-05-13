@@ -6,3 +6,6 @@
 1c. Libraries reduce the work needed significantly by being able to use predefined classes and their methods without having to construct those classes and methods manually.  
   
 2b. Accessor methods are needed because the variables are private and shouldn't be changed freely.  
+  
+2ci. ![Untitled Workspace](https://github.com/BrandonSalimTheHuman/OOPForumWeek9/assets/114371928/18ea82fd-b0ac-421d-8843-2fe43927bcff)
+
